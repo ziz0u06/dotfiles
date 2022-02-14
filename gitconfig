@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ousaifizied@hotmail.fr
+	name = Zied Oussaifi
