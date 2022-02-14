@@ -69,3 +69,4 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+source /Users/test/code/ziz0u06/dotfiles/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
